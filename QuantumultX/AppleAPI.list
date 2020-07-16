@@ -1,0 +1,16 @@
+# 一些 com.apple.appstored* 会连接的 API（优先级高）
+#
+DOMAIN,apps.apple.com,AppleAPI
+DOMAIN,xp.apple.com,AppleAPI
+DOMAIN,bag.itunes.apple.com,AppleAPI
+DOMAIN,api-edge.apps.apple.com,AppleAPI
+DOMAIN,api.apps.apple.com,AppleAPI
+DOMAIN,play.itunes.apple.com,AppleAPI
+DOMAIN,se.itunes.apple.com,AppleAPI
+DOMAIN,se-edge.itunes.apple.com,AppleAPI
+DOMAIN,su.itunes.apple.com,AppleAPI
+DOMAIN,upp.itunes.apple.com,AppleAPI
+DOMAIN,beta.music.apple.com,AppleAPI
+DOMAIN,play-edge.itunes.apple.com,AppleAPI
+DOMAIN,np-edge.itunes.apple.com,AppleAPI
+DOMAIN-KEYWORD,buy.itunes.apple.com,AppleAPI
