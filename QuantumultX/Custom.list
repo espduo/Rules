@@ -1,3 +1,4 @@
+# DIRECT
 IP-CIDR,104.128.84.125/32,DIRECT
 DOMAIN-SUFFIX,myqnapcloud.com,DIRECT
 DOMAIN-SUFFIX,mexashare.com,DIRECT
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,getlle.com,DIRECT
 DOMAIN-SUFFIX,caihop.com,DIRECT
 DOMAIN-SUFFIX,topfilex.com,DIRECT
 DOMAIN-SUFFIX,cloudfile.club,DIRECT
+DOMAIN-SUFFIX,kufile.net,DIRECT
 DOMAIN-SUFFIX,3afile.com,DIRECT
 DOMAIN-SUFFIX,honghaoge.com,DIRECT
 DOMAIN-SUFFIX,busdisk.net,DIRECT
@@ -29,6 +31,12 @@ DOMAIN-SUFFIX,coolcloudx.com,DIRECT
 DOMAIN-SUFFIX,kufile.net,DIRECT
 DOMAIN-SUFFIX,expfile.com,DIRECT
 DOMAIN-SUFFIX,wdofile.com,DIRECT
+DOMAIN-SUFFIX,zmzfile.com,DIRECT
+DOMAIN-SUFFIX,91mjw.com,DIRECT
+DOMAIN-SUFFIX,shuixian.nihaozuida.com,DIRECT
+DOMAIN-SUFFIX,bilibili.com-l-163.com,DIRECT
+
+# Proxy
 DOMAIN-SUFFIX,qnap.com,Proxy
 DOMAIN-SUFFIX,qnapclub.eu,Proxy
 DOMAIN-SUFFIX,inoreader.com,Proxy
@@ -41,3 +49,34 @@ DOMAIN-SUFFIX,sis001.com,Proxy
 DOMAIN-SUFFIX,icysleep.me,Proxy
 DOMAIN-SUFFIX,icysleep.info,Proxy
 DOMAIN-SUFFIX,yuoimg.com,Proxy
+
+# Private Tracker
+DOMAIN-SUFFIX,awesome-hd.me,DIRECT
+DOMAIN-SUFFIX,broadcasthe.net,DIRECT
+DOMAIN-SUFFIX,chdbits.co,DIRECT
+DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT
+DOMAIN-SUFFIX,empornium.me,DIRECT
+DOMAIN-SUFFIX,gazellegames.net,DIRECT
+DOMAIN-SUFFIX,hdchina.org,DIRECT
+DOMAIN-SUFFIX,hdsky.me,DIRECT
+DOMAIN-SUFFIX,icetorrent.org,DIRECT
+DOMAIN-SUFFIX,jpopsuki.eu,DIRECT
+DOMAIN-SUFFIX,keepfrds.com,DIRECT
+DOMAIN-SUFFIX,madsrevolution.net,DIRECT
+DOMAIN-SUFFIX,m-team.cc,DIRECT
+DOMAIN-SUFFIX,nanyangpt.com,DIRECT
+DOMAIN-SUFFIX,ncore.cc,DIRECT
+DOMAIN-SUFFIX,open.cd,DIRECT
+DOMAIN-SUFFIX,ourbits.club,DIRECT
+DOMAIN-SUFFIX,passthepopcorn.me,DIRECT
+DOMAIN-SUFFIX,privatehd.to,DIRECT
+DOMAIN-SUFFIX,redacted.ch,DIRECT
+DOMAIN-SUFFIX,springsunday.net,DIRECT
+DOMAIN-SUFFIX,tjupt.org,DIRECT
+DOMAIN-SUFFIX,totheglory.im,DIRECT
+
+# Services
+DOMAIN-KEYWORD,announce,DIRECT
+DOMAIN-KEYWORD,torrent,DIRECT
+DOMAIN-KEYWORD,tracker,DIRECT
+DOMAIN-SUFFIX,smtp,DIRECT
