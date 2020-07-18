@@ -1,24 +1,24 @@
 payload:
   # Apple 直连
-  - USER-AGENT,*com.apple.mobileme.fmip1
+  # - USER-AGENT,*com.apple.mobileme.fmip1
   # Weather
-  - USER-AGENT,*WeatherFoundation*
+  # - USER-AGENT,*WeatherFoundation*
   - DOMAIN,weather-analytics-events.apple.com
   # Maps
-  - USER-AGENT,%E5%9C%B0%E5%9B%BE*
+  # - USER-AGENT,%E5%9C%B0%E5%9B%BE*
 
   # Settings
-  - USER-AGENT,%E8%AE%BE%E7%BD%AE*
-  - USER-AGENT,com.apple.geod*
-  - USER-AGENT,com.apple.Maps
-  - USER-AGENT,FindMyFriends*
-  - USER-AGENT,FindMyiPhone*
-  - USER-AGENT,FMDClient*
-  - USER-AGENT,FMFD*
-  - USER-AGENT,fmflocatord*
-  - USER-AGENT,geod*
-  - USER-AGENT,locationd*
-  - USER-AGENT,Maps*
+  # - USER-AGENT,%E8%AE%BE%E7%BD%AE*
+  # - USER-AGENT,com.apple.geod*
+  # - USER-AGENT,com.apple.Maps
+  # - USER-AGENT,FindMyFriends*
+  # - USER-AGENT,FindMyiPhone*
+  # - USER-AGENT,FMDClient*
+  # - USER-AGENT,FMFD*
+  # - USER-AGENT,fmflocatord*
+  # - USER-AGENT,geod*
+  # - USER-AGENT,locationd*
+  # - USER-AGENT,Maps*
 
   # Apple Global CDN
   #
@@ -37,9 +37,9 @@ payload:
   # App Store & iTunes Images
   - DOMAIN-SUFFIX,mzstatic.com
   # Mac App Store
-  - PROCESS-NAME,storedownloadd
+  # - PROCESS-NAME,storedownloadd
   # iOS App Store
-  - USER-AGENT,com.apple.appstored*
+  # - USER-AGENT,com.apple.appstored*
 
   # Apple Non-China CDN
   #
@@ -97,9 +97,9 @@ payload:
   # Apple Pay
   - DOMAIN-KEYWORD,smp-device
   # Apple Pay
-  - USER-AGENT,passd*
+  # - USER-AGENT,passd*
   # Apple Pay
-  - USER-AGENT,Wallet*
+  # - USER-AGENT,Wallet*
   # TestFlight
   - DOMAIN,beta.apple.com
   - DOMAIN,testflight.apple.com
