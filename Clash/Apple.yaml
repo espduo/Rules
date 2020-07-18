@@ -63,7 +63,7 @@ payload:
   - DOMAIN,devstreaming-cdn.apple.com
   - DOMAIN,js-cdn.music.apple.com
   - DOMAIN,docs-assets.developer.apple.com
-  - DOMAIN-SUFFIX-dns.net
+  - DOMAIN-SUFFIX,apple-dns.net
 
   # Apple 其他直连
   - DOMAIN,api.smoot.apple.com
@@ -106,12 +106,12 @@ payload:
 
   # Apple 其他自选
   - DOMAIN-SUFFIX,aaplimg.com
-  - DOMAIN-SUFFIX.co
+  - DOMAIN-SUFFIX,apple.co
   - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,itunes.apple.com
   # iCloud 上传和下载
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,me.com
-  - DOMAIN-SUFFIX.com
+  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX-cloudkit.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
