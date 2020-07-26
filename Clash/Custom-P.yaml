@@ -3,8 +3,8 @@ payload:
   - DOMAIN-SUFFIX,qnap.com
   - DOMAIN-SUFFIX,qnapclub.eu
   - DOMAIN-SUFFIX,inoreader.com
-  - DOMAIN-SUFFIX,jdownloader.org
-  - DOMAIN-SUFFIX,jdownloader.net
+  # - DOMAIN-SUFFIX,jdownloader.org
+  # - DOMAIN-SUFFIX,jdownloader.net
   - DOMAIN-SUFFIX,appwork.org
   - DOMAIN-SUFFIX,katfile.com
   - DOMAIN-SUFFIX,javlibrary.com
