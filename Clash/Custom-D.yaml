@@ -2,7 +2,9 @@ payload:
   # DIRECT
   - IP-CIDR,104.128.84.125/32
   # - DOMAIN-SUFFIX,xeton.io
-  # - DOMAIN-SUFFIX,rixcloud.io
+  # - DOMAIN-SUFFIX,rixcloud.io  
+  - DOMAIN-SUFFIX,jdownloader.org
+  - DOMAIN-SUFFIX,jdownloader.net
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,mexashare.com
   - DOMAIN-SUFFIX,subyshare.com
