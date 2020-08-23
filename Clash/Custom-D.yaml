@@ -1,7 +1,8 @@
 payload:  
   # DIRECT
   - IP-CIDR,104.128.84.125/32
-  # - DOMAIN-SUFFIX,xeton.io
+  - IP-CIDR,156.252.238.68/32
+  # - DOMAIN-SUFFIX,tempestapp.io
   # - DOMAIN-SUFFIX,rixcloud.io  
   - DOMAIN-SUFFIX,jdownloader.org
   - DOMAIN-SUFFIX,jdownloader.net
