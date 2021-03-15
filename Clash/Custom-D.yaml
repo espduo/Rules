@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,91mjw.com
   - DOMAIN-SUFFIX,shuixian.nihaozuida.com
   - DOMAIN-SUFFIX,bilibili.com-l-163.com
+  - DOMAIN-SUFFIX,download.fruitpan.com
   - DOMAIN-SUFFIX,up.fruitpan.com
   # Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me
