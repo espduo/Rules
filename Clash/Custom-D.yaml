@@ -2,8 +2,6 @@ payload:
   # DIRECT
   - IP-CIDR,104.128.84.125/32
   - IP-CIDR,156.252.238.68/32
-  # - DOMAIN-SUFFIX,tempestapp.io
-  # - DOMAIN-SUFFIX,rixcloud.io  
   - DOMAIN-SUFFIX,jdownloader.org
   - DOMAIN-SUFFIX,jdownloader.net
   - DOMAIN-SUFFIX,myqnapcloud.com
@@ -46,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,bilibili.com-l-163.com
   - DOMAIN-SUFFIX,download.fruitpan.com
   - DOMAIN-SUFFIX,up.fruitpan.com
+  - DOMAIN-SUFFIX,xueqiupan.net
   # Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
