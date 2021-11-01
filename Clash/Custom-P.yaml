@@ -10,3 +10,6 @@ payload:
   - DOMAIN-SUFFIX,icysleep.me
   - DOMAIN-SUFFIX,icysleep.info
   - DOMAIN-SUFFIX,yuoimg.com
+  # DominLists
+  - DOMAIN,new.iskcd.com
+  - DOMAIN,api.jhdyw.vip
