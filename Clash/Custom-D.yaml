@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,jdownloader.org
   - DOMAIN-SUFFIX,jdownloader.net
   - DOMAIN-SUFFIX,myqnapcloud.com
-  - DOMAIN-SUFFIX,www.nfmovies.com
   - DOMAIN-SUFFIX,mexashare.com
   - DOMAIN-SUFFIX,subyshare.com
   - DOMAIN-SUFFIX,sbsf.tech
@@ -65,28 +64,28 @@ payload:
   - DOMAIN,cache.video.ptqy.gitv.tv
   - DOMAIN,api.live.bilibili.com
   - DOMAIN,api.bilibili.com
-  - DOMAIN,bilibili.com
+  - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN,app.bilibili.com
   - DOMAIN,jk.55fc63.com
   - DOMAIN,500k.blqqg.cn
   - DOMAIN,tp.xmlt88.com
-  - DOMAIN,bttwo.com
+  - DOMAIN-SUFFIX,bttwo.com
   - DOMAIN,api.miued.com
   - DOMAIN,fendou.duoduozy.com
-  - DOMAIN,bttwo.com
-  - DOMAIN,w7tv.com
-  - DOMAIN,mp4er.com
-  - DOMAIN,bde4.cc
-  - DOMAIN,fositv.com
+  - DOMAIN-SUFFIX,bttwo.com
+  - DOMAIN-SUFFIX,w7tv.com
+  - DOMAIN-SUFFIX,mp4er.com
+  - DOMAIN-SUFFIX,bde4.cc
+  - DOMAIN-SUFFIX,fositv.com
   - DOMAIN,cdn2.bzjupinhang.com
   - DOMAIN,loli.magedn.com
-  - DOMAIN,ddrk.me
+  - DOMAIN-SUFFIX,ddrk.me
   - DOMAIN,v3.ddrk.me
   - DOMAIN,qqgame.gzc.svp.tencent-cloud.com
   - DOMAIN,ddrk.oss-cn-shanghai.aliyuncs.com
   - DOMAIN,v2.ddrk.me
-  - DOMAIN,novipnoad.com
-  - DOMAIN,nfmovies.com
+  - DOMAIN-SUFFIX,novipnoad.com
+  - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN,wy.bigmao.top
   # Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me
