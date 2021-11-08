@@ -40,11 +40,11 @@ payload:
   - DOMAIN-SUFFIX,wdofile.com
   - DOMAIN-SUFFIX,zmzfile.com
   - DOMAIN-SUFFIX,91mjw.com
-  - DOMAIN-SUFFIX,shuixian.nihaozuida.com
-  - DOMAIN-SUFFIX,bilibili.com-l-163.com
-  - DOMAIN-SUFFIX,download.fruitpan.com
-  - DOMAIN-SUFFIX,up.fruitpan.com
+  - DOMAIN-SUFFIX,fruitpan.com
   - DOMAIN-SUFFIX,xueqiupan.net
+  - DOMAIN,shuixian.nihaozuida.com
+  - DOMAIN,bilibili.com-l-163.com
+
   # DominLists
   - DOMAIN,pl-ali.youku.com
   - DOMAIN,vd.l.qq.com
@@ -87,6 +87,7 @@ payload:
   - DOMAIN-SUFFIX,novipnoad.com
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN,wy.bigmao.top
+
   # Private Tracker
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
@@ -111,6 +112,7 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  
   # Services
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
