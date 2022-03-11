@@ -2,6 +2,8 @@ payload:
   # DIRECT
   - IP-CIDR,104.128.84.125/32
   - IP-CIDR,156.252.238.68/32
+  - IP-CIDR,162.209.145.252/32
+  - IP-CIDR,162.209.131.18/32
   - DOMAIN-SUFFIX,jdownloader.org
   - DOMAIN-SUFFIX,jdownloader.net
   - DOMAIN-SUFFIX,myqnapcloud.com
@@ -43,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,fruitpan.com
   - DOMAIN-SUFFIX,fruitppan.com
   - DOMAIN-SUFFIX,xueqiupan.net
+  - DOMAIN-SUFFIX,rose27.top
   - DOMAIN,shuixian.nihaozuida.com
   - DOMAIN,bilibili.com-l-163.com
 
