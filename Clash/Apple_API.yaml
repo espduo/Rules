@@ -1,15 +1,15 @@
 payload:  
   # Apple_API
   - DOMAIN-SUFFIX,aaplimg.com
-  - SUFFIX,apple.co
-  - SUFFIX,apple.com
-  - SUFFIX,apple-cloudkit.com
-  - SUFFIX,appsto.re
-  - SUFFIX,cdn-apple.com
-  - SUFFIX,icloud.com
-  - SUFFIX,icloud-content.com
-  - SUFFIX,itunes.com
-  - SUFFIX,me.com
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,appsto.re
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,itunes.com
+  - DOMAIN-SUFFIX,me.com
   - IP-CIDR,17.0.0.0/8,no-resolve
   - IP-CIDR,63.92.224.0/19,no-resolve
   - IP-CIDR,65.199.22.0/23,no-resolve
@@ -21,4 +21,4 @@ payload:
   - IP-CIDR,198.183.17.0/24,no-resolve
   - IP-CIDR,205.180.175.0/24,no-resolve
   # Apple News
-  - SUFFIX,apple.news
+  - DOMAIN-SUFFIX,apple.news
