@@ -1,8 +1,8 @@
+# Tracker
+DOMAIN,tracker.hdcmct.org
+DOMAIN,tracker.exoticaz.to
+
 # Misc
-IP-CIDR,104.128.84.125/32
-IP-CIDR,156.252.238.68/32
-IP-CIDR,162.209.145.252/32
-IP-CIDR,162.209.131.18/32
 DOMAIN-SUFFIX,jdownloader.org
 DOMAIN-SUFFIX,jdownloader.net
 DOMAIN-SUFFIX,myqnapcloud.com
@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,k2s.cc
 DOMAIN-SUFFIX,keep2share.cc
 DOMAIN-SUFFIX,docstransfer.com
 DOMAIN-SUFFIX,azuretouch.net
-DOMAIN-SUFFIX,anydesk.com
-DOMAIN-SUFFIX,rrys2020.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,rrhuodong.com
 DOMAIN-SUFFIX,uiud.xyz
@@ -44,11 +42,14 @@ DOMAIN-SUFFIX,91mjw.com
 DOMAIN-SUFFIX,fruitpan.com
 DOMAIN-SUFFIX,fruitppan.com
 DOMAIN-SUFFIX,xueqiupan.net
-DOMAIN-SUFFIX,rose27.top
 DOMAIN,shuixian.nihaozuida.com
 DOMAIN,bilibili.com-l-163.com
 
 # DominLists
+DOMAIN-SUFFIX,nfmovies.com
+DOMAIN-SUFFIX,ddrk.me
+DOMAIN,ddrk.oss-cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,novipnoad.com
 DOMAIN,pl-ali.youku.com
 DOMAIN,vd.l.qq.com
 DOMAIN,fairplay.l.qq.com
@@ -82,11 +83,4 @@ DOMAIN-SUFFIX,bde4.cc
 DOMAIN-SUFFIX,fositv.com
 DOMAIN,cdn2.bzjupinhang.com
 DOMAIN,loli.magedn.com
-DOMAIN-SUFFIX,ddrk.me
-DOMAIN,v3.ddrk.me
 DOMAIN,qqgame.gzc.svp.tencent-cloud.com
-DOMAIN,ddrk.oss-cn-shanghai.aliyuncs.com
-DOMAIN,v2.ddrk.me
-DOMAIN-SUFFIX,novipnoad.com
-DOMAIN-SUFFIX,nfmovies.com
-DOMAIN,wy.bigmao.top
