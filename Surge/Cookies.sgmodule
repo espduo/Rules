@@ -1,0 +1,11 @@
+#!name=Cookies
+#!desc=Cookies
+#20220503
+
+[Script]
+京东Cookie = type=http-request,requires-body=1,pattern=^https:\/\/(api\.m|me-api|ms\.jr)\.jd\.com\/(client\.action\?functionId=signBean|user_new\/info\/GetJDUserInfoUnion\?|gw\/generic\/hy\/h5\/m\/appSign\?),script-path=https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js
+京东多账号Cookie = type=http-request,pattern=^https:\/\/me-api\.jd\.com\/user_new\/info\/GetJDUserInfoUnion,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/JD_extra_cookie.js,script-update-interval=0
+jd_appopen = type=http-request,pattern=^https:\/\/api\.m\.jd\.com\/openUpgrade,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/JDHelloWorld/jd_scripts/main/utils/jd_appopen.js,script-update-interval=0
+
+[MITM]
+hostname = %APPEND% me-api.jd.com, draw.jdfcloud.com, jdjoy.jd.com, account.huami.com, api.m.jd.com, ms.jr.jd.com
