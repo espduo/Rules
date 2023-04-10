@@ -1,7 +1,3 @@
-# Tracker
-DOMAIN,tracker.hdcmct.org
-DOMAIN,tracker.exoticaz.to
-
 # Misc
 DOMAIN-SUFFIX,jdownloader.org
 DOMAIN-SUFFIX,jdownloader.net
@@ -45,42 +41,7 @@ DOMAIN-SUFFIX,xueqiupan.net
 DOMAIN,shuixian.nihaozuida.com
 DOMAIN,bilibili.com-l-163.com
 
-# DominLists
+# DomainLists
 DOMAIN-SUFFIX,nfmovies.com
 DOMAIN-SUFFIX,ddrk.me
-DOMAIN,ddrk.oss-cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,novipnoad.com
-DOMAIN,pl-ali.youku.com
-DOMAIN,vd.l.qq.com
-DOMAIN,fairplay.l.qq.com
-DOMAIN,valipl.cp31.ott.cibntv.net
-DOMAIN,ott.liveapi.mgtv.com
-DOMAIN,pcvideoydott.titan.mgtv.com
-DOMAIN,pcvideotx.titan.mgtv.com
-DOMAIN,pcvideoaliyun.titan.mgtv.com
-DOMAIN,disp.titan.mgtv.com
-DOMAIN,ott.liveapi.mgtv.com
-DOMAIN,cache.video.iqiyi.com
-DOMAIN,data.video.iqiyi.com
-DOMAIN,data6.video.iqiyi.com
-DOMAIN,data2.itv.ptqy.gitv.tv
-DOMAIN,iface2.iqiyi.com
-DOMAIN,cache.video.ptqy.gitv.tv
-DOMAIN,api.live.bilibili.com
-DOMAIN,api.bilibili.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN,app.bilibili.com
-DOMAIN,jk.55fc63.com
-DOMAIN,500k.blqqg.cn
-DOMAIN,tp.xmlt88.com
-DOMAIN-SUFFIX,bttwo.com
-DOMAIN,api.miued.com
-DOMAIN,fendou.duoduozy.com
-DOMAIN-SUFFIX,bttwo.com
-DOMAIN-SUFFIX,w7tv.com
-DOMAIN-SUFFIX,mp4er.com
-DOMAIN-SUFFIX,bde4.cc
-DOMAIN-SUFFIX,fositv.com
-DOMAIN,cdn2.bzjupinhang.com
-DOMAIN,loli.magedn.com
-DOMAIN,qqgame.gzc.svp.tencent-cloud.com
